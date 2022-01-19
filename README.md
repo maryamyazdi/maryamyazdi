@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Maryam Yazdi.
 
 
-- 👀 I’m interested in new computer technologies, software engineering and coding!
+
+-  interested in new computer technologies, software engineering and coding!
 
 
 <!---
