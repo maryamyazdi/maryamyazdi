@@ -1,7 +1,7 @@
 
 
 
--  interested in new computer technologies, software engineering and coding!
+-  interested in computer technologies, software engineering and coding!
 
 
 <!---
