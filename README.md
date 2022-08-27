@@ -1,7 +1,6 @@
 
-
-
--  interested in computer technologies, software engineering and coding!
+-  ✨Passionate about cutting-edge computer technologies
+-  🧐Into coding, algorithms, analysis and beyond...
 
 
 <!---
