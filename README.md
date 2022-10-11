@@ -2,10 +2,11 @@
 <h1 style="text-align:center">Hello There!👋</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=16&duration=4400&pause=500&color=F7F7F7&vCenter=true&width=300&lines=This+is+Maryam+%3A);glad+to+see+you+here+%F0%9F%97%BF" alt="Typing SVG" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamyazdi&count_private=true&show_icons=true&&hide=contribs&theme=merko)
 
 -  ✨Passionate about cutting-edge computer technologies
 -  🧐Into coding, algorithms, analysis and beyond...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamyazdi&count_private=true&show_icons=true&&hide=contribs&theme=merko)
 
 
 <h1 style="text-align:center">IN CODE</h1>
