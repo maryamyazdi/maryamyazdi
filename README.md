@@ -2,11 +2,15 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Hello there!👋🏻
+      <h1>Hello there!👋🏻</h1>
     </summary>
-  </ul>
+  </br>
+    <summary>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&letterSpacing=1+px&pause=1000&center=true&vCenter=true&width=435&lines=This+is+Maryam;glad+to+see+you+here+%F0%9F%97%BF" alt="Typing SVG" /></a>
+  </summary>
+    </ul>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=16&duration=4400&pause=500&color=F7F7F7&vCenter=true&width=300&lines=This+is+Maryam+%3A);glad+to+see+you+here+%F0%9F%97%BF" alt="Typing SVG" /></a>
+
 
 -  ✨Passionate about cutting-edge computer technologies
 -  🧐Into coding, algorithms, analysis and beyond...
