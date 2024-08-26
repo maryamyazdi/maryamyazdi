@@ -1,34 +1,39 @@
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/78374123/190442587-d130c441-7e4f-43df-8561-4162f4536c5e.gif" />
-<h1 style="text-align:center">Hello There!👋</h1>
-
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hello there!👋🏻
+    </summary>
+  </ul>
+</div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=16&duration=4400&pause=500&color=F7F7F7&vCenter=true&width=300&lines=This+is+Maryam+%3A);glad+to+see+you+here+%F0%9F%97%BF" alt="Typing SVG" /></a>
 
 -  ✨Passionate about cutting-edge computer technologies
 -  🧐Into coding, algorithms, analysis and beyond...
 
-## Tech Stack
-#### Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Technologies and tools:
+**Machine Learning**: </br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
 ![OpenAI Models](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=black)
 ![Meta](https://img.shields.io/badge/Meta_AI-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-
-#### Data Manipulation
+</br>
+</br>
+**Data Manipulation**: </br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### Deployment
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+</br>
+</br>
+**Maintenance**: </br>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-#### Team Work
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</br>
+</br>
+**Team Work**: </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
