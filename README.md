@@ -13,7 +13,7 @@
 </div>
 
 
--  ✨ Thrilled by machine learning and AI
+-  ✨ Thrilled about machine learning and AI
 -  💻 Love programming, coffee, statistics and NLP
 -  🎓 Graduated with a B.Sc. in Computer Science from the University of Isfahan
   </br>
