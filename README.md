@@ -11,6 +11,7 @@
 -  💻 Love programming, coffee, statistics and NLP
 -  🎓 Graduated with a B.Sc. in Computer Science from the University of Isfahan
   </br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <!---
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=3500&pause=300&color=4AF626&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+Nature;Data+Scientist;Machine+Learning+Enthusiast;Hardworking+and+Ambitious" alt="Typing SVG" /></a>
@@ -35,15 +36,13 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!---
 <h3 align=center>📫 Get in Touch!</h3>
 <div align=center>
 <a href="https://maryamyazdi.github.io/"><img src="https://img.shields.io/badge/🌐_Personal_Website-000.svg?style=for-the-badge&logo=Github_pages&logoColor=%230077B5"></a>
 <a href="https://www.linkedin.com/in/maryamyazdii"><img src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5"></a>
 <a href="mailto:yazdimaryam5@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 </div>
-<!---
 maryamyazdi/maryamyazdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
