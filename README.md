@@ -4,12 +4,6 @@
     <summary>
       <h2>Hello there, I'm Maryam!👋🏻</h2>
     </summary>
-    <!---
-    <summary>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=20&letterSpacing=1+px&pause=1000&center=true&vCenter=true&width=435&lines=This+is+Maryam;glad+to+see+you+here+%F0%9F%97%BF" alt="Typing SVG" /></a>
-  </summary>
-    --->
-    </ul>
 </div>
 
 
@@ -17,10 +11,11 @@
 -  💻 Love programming, coffee, statistics and NLP
 -  🎓 Graduated with a B.Sc. in Computer Science from the University of Isfahan
   </br>
+  <!---
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=3500&pause=300&color=4AF626&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+Nature;Data+Scientist;Machine+Learning+Enthusiast;Hardworking+and+Ambitious" alt="Typing SVG" /></a>
   </div>
-  
+  --->
 <h3>Top Tools:</h3>
 
 - Machine Learning: </br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
