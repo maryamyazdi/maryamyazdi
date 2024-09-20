@@ -9,7 +9,7 @@
 
 -  ✨ Thrilled about machine learning and AI
 -  💻 Love programming, coffee, statistics and NLP
--  🎓 Graduated with a B.Sc. in Computer Science from the University of Isfahan
+-  🎓 Graduated with a B.Sc. in Computer Software Engineering from the University of Isfahan
   </br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <!---
